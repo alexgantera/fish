@@ -1,0 +1,10 @@
+
+
+
+
+
+
+
+
+
+reflector --verbose -l 50 -p https --sort rate --save /etc/pacman.d/mirrorlist
