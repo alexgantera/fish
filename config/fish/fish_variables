@@ -1,5 +1,6 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
+SETUVAR EDITOR:nano
 SETUVAR --export FZF_DEFAULT_OPTS:\x2d\x2dreverse\x1e\x2d\x2dheight\x1e95\x25\x1e\x2d\x2dmargin\x1e1
 SETUVAR FZF_DISABLE_KEYBINDINGS:0
 SETUVAR FZF_ENABLE_OPEN_PREVIEW:1

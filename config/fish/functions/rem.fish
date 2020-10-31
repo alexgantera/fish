@@ -1,3 +1,3 @@
 function rem
-sudo pacman -Rns (pacman -Qtdq)
+yay -Rns (pacman -Qtdq)
 end

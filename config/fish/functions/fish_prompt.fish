@@ -1,1 +1,1 @@
-/home/ganter/.local/share/omf/themes/idan/fish_prompt.fish
+/home/ganter/.local/share/omf/themes/spacefish/fish_prompt.fish

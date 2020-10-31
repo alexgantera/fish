@@ -45,11 +45,12 @@ function fish_prompt
     else
       set git_info $green $git_branch $green " ✔"
     end
-    echo -n -s ' · ' $git_info $normal
+    echo -n -s '·' $git_info $normal
   end
 
   # Terminate with a nice prompt char
-  echo -n -s ' ❯❯ '$normal
+  echo -n -s $cyan'·❯'$normal'❯ '$normal
 
 end
-#≣ ☶ ɑ: 𝕲 § $ # ' ' ❯❯ " ⚑" " ✔"  ✗
+#≣ ☶ ɑ: 𝕲 § $ ❯❯ " ⚑" " ✔"  ✗
+
