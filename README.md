@@ -1,2 +1,0 @@
-# fish settigs
-Настройки Fish

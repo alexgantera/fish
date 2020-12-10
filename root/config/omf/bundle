@@ -1,7 +1,0 @@
-package autovenv
-package https://github.com/jethrokuan/fzf
-package virtualfish
-theme agnoster
-theme budspencer
-theme default
-theme idan
